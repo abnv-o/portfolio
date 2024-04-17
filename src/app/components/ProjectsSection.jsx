@@ -11,8 +11,8 @@ const projectsData = [
     description: "A business website built using Next.js and TailwindCSS for a client",
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/abnv-o/michael_roberts",
+    previewUrl: "https://michael-roberts-phi.vercel.app/",
   },
   {
     id: 2,
@@ -20,7 +20,7 @@ const projectsData = [
     description: "An e-commerce website built using Python Django for Kanchivaram.in",
     image: "/images/projects/2.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/VarshaShaheen/Kanchivaram",
     previewUrl: "/",
   },
   {
@@ -30,7 +30,7 @@ const projectsData = [
     image: "/images/projects/3.png",
     tag: ["All", "Web"],
     gitUrl: "/",
-    previewUrl: "/",
+    previewUrl: "sargam24.vercel.app",
   },
   // {
   //   id: 4,
