@@ -11,7 +11,7 @@ const Footer = () => {
         </div>
         {/* right */}
         <div className="flex justify-center items-center">
-        <p className="text-slate-600">All rights reserved.</p>
+        <p className="text-slate-600"></p>
         </div>
       </div>
     </footer>
