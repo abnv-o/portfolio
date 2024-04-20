@@ -20,7 +20,7 @@ const projectsData = [
     description: "An e-commerce website built using Python Django for Kanchivaram.in",
     image: "/images/projects/2.png",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/VarshaShaheen/Kanchivaram",
+    gitUrl: "/",
     previewUrl: "/",
   },
   {
